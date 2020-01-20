@@ -1,0 +1,15 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Oct  7 22:34:46 2019
+Invocation: foremost 
+Output directory: /Users/tiger/ctf/picoCTF2019/rsa-pop-quiz/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: stdin
+Start: Mon Oct  7 22:34:46 2019
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Interrupt received at Mon Oct  7 22:35:10 2019
